@@ -149,7 +149,7 @@ const Header = () => {
                 aria-controls="whyInetz-dropdown"
                 className="text-base font-medium text-black transition-all duration-200 hover:text-main-color focus:text-main-color h-auto"
               >
-                WHY INETZ
+                WHY US
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   className="w-3 fill-black inline ml-3"
